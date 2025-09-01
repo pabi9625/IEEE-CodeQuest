@@ -1,10 +1,10 @@
 ### Information
--Name:- Kumarathass Pabilan
--Email:- pabilankumarathass@gmail.com
--Reg N0:- 2023/CS/130
+- Name:- Kumarathass Pabilan
+- Email:- pabilankumarathass@gmail.com
+- Reg N0:- 2023/CS/130
 
 ### Frameworks used
--next.js
+- next.js
 
 ### Prerequisites
 - Node.js 18+ 
