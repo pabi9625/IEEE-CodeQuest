@@ -14,5 +14,4 @@
 - npm install framer-motion lucide-react clsx tailwind-merge
 
 ### Vercel
--npm run build
-# Deploy to Vercel via GitHub or CLI
+-npm run build 
