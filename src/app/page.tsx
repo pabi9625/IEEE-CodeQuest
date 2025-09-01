@@ -110,8 +110,8 @@ export default function CodeQuestPage() {
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold metallic-text mb-6">About CodeQuest</h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto text-pretty">
-              CodeQuest is more than just a hackathon—it's a journey of discovery, innovation, and collaboration that
-              brings together the brightest minds in technology.
+              CodeQuest is more than just a hackathon—it&apos;s a journey of discovery, innovation, and collaboration
+              that brings together the brightest minds in technology.
             </p>
           </div>
 
@@ -125,7 +125,8 @@ export default function CodeQuestPage() {
               </CardHeader>
               <CardContent>
                 <CardDescription>
-                  Push the boundaries of what's possible with cutting-edge technologies and creative problem-solving.
+                  Push the boundaries of what&apos;s possible with cutting-edge technologies and creative
+                  problem-solving.
                 </CardDescription>
               </CardContent>
             </Card>
@@ -238,7 +239,7 @@ export default function CodeQuestPage() {
                   <Trophy className="h-8 w-8 text-yellow-600 dark:text-yellow-400" />
                 </div>
                 <CardTitle className="text-2xl metallic-text">1st Place</CardTitle>
-                <div className="text-3xl font-bold text-primary animate-pulse-glow">LKR 60,000</div>
+                <div className="text-3xl font-bold text-primary animate-pulse-glow">$5,000</div>
               </CardHeader>
               <CardContent className="text-center">
                 <ul className="space-y-2 text-muted-foreground">
@@ -257,7 +258,7 @@ export default function CodeQuestPage() {
                   <Award className="h-8 w-8 text-gray-600 dark:text-gray-400" />
                 </div>
                 <CardTitle className="text-2xl metallic-text">2nd Place</CardTitle>
-                <div className="text-3xl font-bold text-primary animate-pulse-glow">LKR 40,000</div>
+                <div className="text-3xl font-bold text-primary animate-pulse-glow">$3,000</div>
               </CardHeader>
               <CardContent className="text-center">
                 <ul className="space-y-2 text-muted-foreground">
@@ -276,7 +277,7 @@ export default function CodeQuestPage() {
                   <Award className="h-8 w-8 text-orange-600 dark:text-orange-400" />
                 </div>
                 <CardTitle className="text-2xl metallic-text">3rd Place</CardTitle>
-                <div className="text-3xl font-bold text-primary animate-pulse-glow">LKR 20,000</div>
+                <div className="text-3xl font-bold text-primary animate-pulse-glow">$1,500</div>
               </CardHeader>
               <CardContent className="text-center">
                 <ul className="space-y-2 text-muted-foreground">
@@ -302,7 +303,7 @@ export default function CodeQuestPage() {
                 Best Use of AI
               </Badge>
               <Badge variant="secondary" className="text-sm px-3 py-1">
-                People's Choice
+                People&apos;s Choice
               </Badge>
             </div>
           </div>
@@ -315,7 +316,7 @@ export default function CodeQuestPage() {
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold metallic-text mb-6">Frequently Asked Questions</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Got questions? We've got answers to help you prepare for CodeQuest.
+              Got questions? We&apos;ve got answers to help you prepare for CodeQuest.
             </p>
           </div>
 
@@ -325,26 +326,26 @@ export default function CodeQuestPage() {
                 <AccordionTrigger className="text-left">Who can participate in CodeQuest?</AccordionTrigger>
                 <AccordionContent>
                   CodeQuest is open to all university students, regardless of their major or programming experience.
-                  Whether you're a computer science student or studying another field, if you're passionate about
-                  technology and innovation, you're welcome to join!
+                  Whether you&apos;re a computer science student or studying another field, if you&apos;re passionate
+                  about technology and innovation, you&apos;re welcome to join!
                 </AccordionContent>
               </AccordionItem>
 
               <AccordionItem value="item-2" className="border border-border rounded-lg px-6">
                 <AccordionTrigger className="text-left">Do I need a team to participate?</AccordionTrigger>
                 <AccordionContent>
-                  You can participate either as an individual or as part of a team (up to 4 members). If you don't have
-                  a team, don't worry! We'll have team formation sessions at the beginning of the event to help you find
-                  like-minded collaborators.
+                  You can participate either as an individual or as part of a team (up to 4 members). If you don&apos;t
+                  have a team, don&apos;t worry! We&apos;ll have team formation sessions at the beginning of the event
+                  to help you find like-minded collaborators.
                 </AccordionContent>
               </AccordionItem>
 
               <AccordionItem value="item-3" className="border border-border rounded-lg px-6">
                 <AccordionTrigger className="text-left">What should I bring to the event?</AccordionTrigger>
                 <AccordionContent>
-                  Bring your laptop, chargers, and any development tools you prefer. We'll provide WiFi, power outlets,
-                  meals, and snacks throughout the event. Don't forget to bring your student ID for registration and a
-                  positive attitude for collaboration!
+                  Bring your laptop, chargers, and any development tools you prefer. We&apos;ll provide WiFi, power
+                  outlets, meals, and snacks throughout the event. Don&apos;t forget to bring your student ID for
+                  registration and a positive attitude for collaboration!
                 </AccordionContent>
               </AccordionItem>
 
@@ -451,7 +452,7 @@ export default function CodeQuestPage() {
                 <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
                   <span className="sr-only">Twitter</span>
                   <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24">
-                    <path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84" />
+                    <path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.072 4.072 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84" />
                   </svg>
                 </a>
                 <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
