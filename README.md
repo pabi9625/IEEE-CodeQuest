@@ -1,6 +1,7 @@
-Name:- Kumarathass Pabilan
-Email:- pabilankumarathass@gmail.com
-Reg N0:- 2023/CS/130
+### Information
+-Name:- Kumarathass Pabilan
+-Email:- pabilankumarathass@gmail.com
+-Reg N0:- 2023/CS/130
 
 ### Frameworks used
 -next.js
